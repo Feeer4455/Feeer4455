@@ -2,7 +2,6 @@
   <h1 align="center"> Hello there! I'm Maria Fernanda</a>👋</h1>
 </div>
 
-
 ## 🎓 About me
 I am a student of **Mechatronics Engineering** at **Tecnológico de Monterrey**. I am passionate about technology, its study and innovation in this field. I am always looking to learn new things and improve my skills in different areas.
 
